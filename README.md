@@ -5,6 +5,7 @@
 - 📫 How to reach me kingfaceyan@yan.com
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: ... i love singing
+- 💻 My Tech Journey start now!!!
 
 <!---
 kingface146/kingface146 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
